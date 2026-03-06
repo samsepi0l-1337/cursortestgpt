@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+.next
+coverage
+dist
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+public/uploads/avatars/*
+!public/uploads/avatars/.gitkeep
